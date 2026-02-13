@@ -2,3 +2,4 @@ gitの練習をやっていきます
 変更しました
 変更しました
 ・git add
+・git status
