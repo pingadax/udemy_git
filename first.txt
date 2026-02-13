@@ -4,3 +4,4 @@ gitの練習をやっていきます
 ・git add
 ・git status
 ・git diff
+・ソース管理
