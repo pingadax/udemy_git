@@ -5,3 +5,4 @@ gitの練習をやっていきます
 ・git status
 ・git diff
 ・ソース管理
+aaa
